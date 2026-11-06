@@ -1,0 +1,223 @@
+{
+  "version": "ssii-estacion/1",
+  "practica": "PR1",
+  "instancia": "PR1-MH-02",
+  "algoritmo": "coste_uniforme",
+  "autores": [
+    "Alejandro Martínez Parra <Alejandro.Martinez46@alu.uclm.es>",
+    "Antonio Riesco Serrano <Antonio.Riesco@alu.uclm.es>"
+  ],
+  "heuristica": null,
+  "encontrada": true,
+  "coste": 49,
+  "longitud": 32,
+  "camino": [
+    [
+      2,
+      2,
+      3
+    ],
+    [
+      2,
+      2,
+      4
+    ],
+    [
+      2,
+      3,
+      4
+    ],
+    [
+      2,
+      4,
+      4
+    ],
+    [
+      2,
+      5,
+      4
+    ],
+    [
+      2,
+      5,
+      5
+    ],
+    [
+      2,
+      5,
+      6
+    ],
+    [
+      2,
+      5,
+      7
+    ],
+    [
+      2,
+      5,
+      8
+    ],
+    [
+      2,
+      5,
+      9
+    ],
+    [
+      2,
+      6,
+      9
+    ],
+    [
+      2,
+      7,
+      9
+    ],
+    [
+      2,
+      8,
+      9
+    ],
+    [
+      2,
+      9,
+      9
+    ],
+    [
+      2,
+      10,
+      9
+    ],
+    [
+      2,
+      11,
+      9
+    ],
+    [
+      2,
+      11,
+      8
+    ],
+    [
+      2,
+      12,
+      8
+    ],
+    [
+      2,
+      13,
+      8
+    ],
+    [
+      2,
+      13,
+      7
+    ],
+    [
+      1,
+      13,
+      7
+    ],
+    [
+      1,
+      13,
+      8
+    ],
+    [
+      1,
+      13,
+      9
+    ],
+    [
+      1,
+      13,
+      10
+    ],
+    [
+      1,
+      14,
+      10
+    ],
+    [
+      1,
+      15,
+      10
+    ],
+    [
+      1,
+      15,
+      11
+    ],
+    [
+      1,
+      16,
+      11
+    ],
+    [
+      1,
+      17,
+      11
+    ],
+    [
+      0,
+      17,
+      11
+    ],
+    [
+      0,
+      17,
+      12
+    ],
+    [
+      0,
+      17,
+      13
+    ],
+    [
+      0,
+      17,
+      14
+    ]
+  ],
+  "acciones": [
+    "ESTE",
+    "SUR",
+    "SUR",
+    "SUR",
+    "ESTE",
+    "ESTE",
+    "ESTE",
+    "ESTE",
+    "ESTE",
+    "SUR",
+    "SUR",
+    "SUR",
+    "SUR",
+    "SUR",
+    "SUR",
+    "OESTE",
+    "SUR",
+    "SUR",
+    "OESTE",
+    "BAJAR",
+    "ESTE",
+    "ESTE",
+    "ESTE",
+    "SUR",
+    "SUR",
+    "ESTE",
+    "SUR",
+    "SUR",
+    "BAJAR",
+    "ESTE",
+    "ESTE",
+    "ESTE"
+  ],
+  "estadisticas": {
+    "nodos_generados": 447,
+    "nodos_explorados": 420,
+    "nodos_expandidos": 418,
+    "max_frontera": 28,
+    "max_alcanzados": 446
+  },
+  "tiempo_s": 0.005121
+}

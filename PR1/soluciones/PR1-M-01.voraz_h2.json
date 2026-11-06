@@ -1,0 +1,217 @@
+{
+  "version": "ssii-estacion/1",
+  "practica": "PR1",
+  "instancia": "PR1-M-01",
+  "algoritmo": "voraz_h2",
+  "autores": [
+    "Alejandro Martínez Parra <Alejandro.Martinez46@alu.uclm.es>",
+    "Antonio Riesco Serrano <Antonio.Riesco@alu.uclm.es>"
+  ],
+  "heuristica": "h2",
+  "encontrada": true,
+  "coste": 49,
+  "longitud": 31,
+  "camino": [
+    [
+      0,
+      4,
+      15
+    ],
+    [
+      0,
+      5,
+      15
+    ],
+    [
+      1,
+      5,
+      15
+    ],
+    [
+      1,
+      6,
+      15
+    ],
+    [
+      1,
+      7,
+      15
+    ],
+    [
+      1,
+      8,
+      15
+    ],
+    [
+      1,
+      9,
+      15
+    ],
+    [
+      1,
+      10,
+      15
+    ],
+    [
+      1,
+      11,
+      15
+    ],
+    [
+      1,
+      11,
+      14
+    ],
+    [
+      1,
+      11,
+      13
+    ],
+    [
+      1,
+      11,
+      12
+    ],
+    [
+      1,
+      11,
+      11
+    ],
+    [
+      1,
+      10,
+      11
+    ],
+    [
+      1,
+      9,
+      11
+    ],
+    [
+      1,
+      8,
+      11
+    ],
+    [
+      2,
+      8,
+      11
+    ],
+    [
+      2,
+      9,
+      11
+    ],
+    [
+      2,
+      10,
+      11
+    ],
+    [
+      2,
+      11,
+      11
+    ],
+    [
+      2,
+      12,
+      11
+    ],
+    [
+      2,
+      13,
+      11
+    ],
+    [
+      2,
+      14,
+      11
+    ],
+    [
+      2,
+      14,
+      10
+    ],
+    [
+      2,
+      14,
+      9
+    ],
+    [
+      2,
+      14,
+      8
+    ],
+    [
+      2,
+      14,
+      7
+    ],
+    [
+      2,
+      14,
+      6
+    ],
+    [
+      2,
+      14,
+      5
+    ],
+    [
+      2,
+      14,
+      4
+    ],
+    [
+      2,
+      14,
+      3
+    ],
+    [
+      2,
+      14,
+      2
+    ]
+  ],
+  "acciones": [
+    "SUR",
+    "SUBIR",
+    "SUR",
+    "SUR",
+    "SUR",
+    "SUR",
+    "SUR",
+    "SUR",
+    "OESTE",
+    "OESTE",
+    "OESTE",
+    "OESTE",
+    "NORTE",
+    "NORTE",
+    "NORTE",
+    "SUBIR",
+    "SUR",
+    "SUR",
+    "SUR",
+    "SUR",
+    "SUR",
+    "SUR",
+    "OESTE",
+    "OESTE",
+    "OESTE",
+    "OESTE",
+    "OESTE",
+    "OESTE",
+    "OESTE",
+    "OESTE",
+    "OESTE"
+  ],
+  "estadisticas": {
+    "nodos_generados": 1776,
+    "nodos_explorados": 1693,
+    "nodos_expandidos": 1531,
+    "max_frontera": 85,
+    "max_alcanzados": 420
+  },
+  "tiempo_s": 0.024063
+}

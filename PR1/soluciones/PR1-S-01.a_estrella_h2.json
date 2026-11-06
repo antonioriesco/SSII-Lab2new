@@ -1,0 +1,109 @@
+{
+  "version": "ssii-estacion/1",
+  "practica": "PR1",
+  "instancia": "PR1-S-01",
+  "algoritmo": "a_estrella_h2",
+  "autores": [
+    "Alejandro Martínez Parra <Alejandro.Martinez46@alu.uclm.es>",
+    "Antonio Riesco Serrano <Antonio.Riesco@alu.uclm.es>"
+  ],
+  "heuristica": "h2",
+  "encontrada": true,
+  "coste": 18,
+  "longitud": 13,
+  "camino": [
+    [
+      0,
+      8,
+      6
+    ],
+    [
+      0,
+      7,
+      6
+    ],
+    [
+      0,
+      7,
+      7
+    ],
+    [
+      1,
+      7,
+      7
+    ],
+    [
+      1,
+      7,
+      6
+    ],
+    [
+      1,
+      6,
+      6
+    ],
+    [
+      1,
+      6,
+      5
+    ],
+    [
+      1,
+      6,
+      4
+    ],
+    [
+      1,
+      6,
+      3
+    ],
+    [
+      1,
+      6,
+      2
+    ],
+    [
+      1,
+      5,
+      2
+    ],
+    [
+      1,
+      5,
+      1
+    ],
+    [
+      1,
+      4,
+      1
+    ],
+    [
+      1,
+      3,
+      1
+    ]
+  ],
+  "acciones": [
+    "NORTE",
+    "ESTE",
+    "SUBIR",
+    "OESTE",
+    "NORTE",
+    "OESTE",
+    "OESTE",
+    "OESTE",
+    "OESTE",
+    "NORTE",
+    "OESTE",
+    "NORTE",
+    "NORTE"
+  ],
+  "estadisticas": {
+    "nodos_generados": 87,
+    "nodos_explorados": 81,
+    "nodos_expandidos": 76,
+    "max_frontera": 21,
+    "max_alcanzados": 82
+  },
+  "tiempo_s": 0.00131
+}

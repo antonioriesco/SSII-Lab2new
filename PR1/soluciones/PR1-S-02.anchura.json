@@ -1,0 +1,91 @@
+{
+  "version": "ssii-estacion/1",
+  "practica": "PR1",
+  "instancia": "PR1-S-02",
+  "algoritmo": "anchura",
+  "autores": [
+    "Alejandro Martínez Parra <Alejandro.Martinez46@alu.uclm.es>",
+    "Antonio Riesco Serrano <Antonio.Riesco@alu.uclm.es>"
+  ],
+  "heuristica": null,
+  "encontrada": true,
+  "coste": 16,
+  "longitud": 10,
+  "camino": [
+    [
+      0,
+      2,
+      4
+    ],
+    [
+      0,
+      3,
+      4
+    ],
+    [
+      0,
+      4,
+      4
+    ],
+    [
+      0,
+      5,
+      4
+    ],
+    [
+      0,
+      6,
+      4
+    ],
+    [
+      0,
+      7,
+      4
+    ],
+    [
+      0,
+      7,
+      5
+    ],
+    [
+      0,
+      7,
+      6
+    ],
+    [
+      0,
+      8,
+      6
+    ],
+    [
+      0,
+      8,
+      7
+    ],
+    [
+      1,
+      8,
+      7
+    ]
+  ],
+  "acciones": [
+    "SUR",
+    "SUR",
+    "SUR",
+    "SUR",
+    "SUR",
+    "ESTE",
+    "ESTE",
+    "SUR",
+    "ESTE",
+    "SUBIR"
+  ],
+  "estadisticas": {
+    "nodos_generados": 61,
+    "nodos_explorados": 61,
+    "nodos_expandidos": 47,
+    "max_frontera": 12,
+    "max_alcanzados": 48
+  },
+  "tiempo_s": 0.000919
+}
